@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-05T02:22:28 IST" name="Default suite" finished-at="2024-09-05T02:23:17 IST" duration-ms="49690">
+    <groups>
+    </groups>
+    <test started-at="2024-09-05T02:22:28 IST" name="Default test" finished-at="2024-09-05T02:23:17 IST" duration-ms="49690">
+      <class name="com.Test.Test1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Test.Test1@1aa7ecca]" started-at="2024-09-05T02:22:28 IST" name="setUp" finished-at="2024-09-05T02:22:52 IST" duration-ms="24653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="initializeHomePage()[pri:1, instance:com.Test.Test1@1aa7ecca]" started-at="2024-09-05T02:22:52 IST" name="initializeHomePage" finished-at="2024-09-05T02:22:54 IST" duration-ms="1687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeHomePage -->
+        <test-method signature="navigateToRevenueCalculator()[pri:2, instance:com.Test.Test1@1aa7ecca]" started-at="2024-09-05T02:22:54 IST" name="navigateToRevenueCalculator" finished-at="2024-09-05T02:22:55 IST" duration-ms="571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRevenueCalculator -->
+        <test-method signature="scrollDownToTheSliderSectionAndAdjustAndValidateValue()[pri:3, instance:com.Test.Test1@1aa7ecca]" started-at="2024-09-05T02:22:55 IST" name="scrollDownToTheSliderSectionAndAdjustAndValidateValue" finished-at="2024-09-05T02:22:59 IST" duration-ms="4690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDownToTheSliderSectionAndAdjustAndValidateValue -->
+        <test-method signature="updateAndValidateTextField()[pri:4, instance:com.Test.Test1@1aa7ecca]" started-at="2024-09-05T02:22:59 IST" name="updateAndValidateTextField" finished-at="2024-09-05T02:23:04 IST" duration-ms="4938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAndValidateTextField -->
+        <test-method signature="selectGivenCPTCodes()[pri:5, instance:com.Test.Test1@1aa7ecca]" started-at="2024-09-05T02:23:04 IST" name="selectGivenCPTCodes" finished-at="2024-09-05T02:23:10 IST" duration-ms="5950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectGivenCPTCodes -->
+        <test-method signature="validateTotalRecurringReimbursement()[pri:6, instance:com.Test.Test1@1aa7ecca]" started-at="2024-09-05T02:23:10 IST" name="validateTotalRecurringReimbursement" finished-at="2024-09-05T02:23:15 IST" duration-ms="4875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTotalRecurringReimbursement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Test.Test1@1aa7ecca]" started-at="2024-09-05T02:23:15 IST" name="tearDown" finished-at="2024-09-05T02:23:17 IST" duration-ms="2178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Test.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
